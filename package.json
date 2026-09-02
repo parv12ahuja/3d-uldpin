@@ -1,0 +1,12 @@
+{
+  "name": "backenddd",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.x.x",
+    "express": "^4.x.x",
+    "mongoose": "^8.x.x",
+    "ngeohash": "^0.6.3"
+  }
+}
